@@ -15,3 +15,7 @@
 Renames all occurances of a variable
 
 [Rename Symbol](https://code.visualstudio.com/docs/editor/refactoring#_rename-symbol)
+
+## Go to class
+
+`Strg + E`
