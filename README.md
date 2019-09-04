@@ -19,3 +19,11 @@ Renames all occurances of a variable
 ## Go to class
 
 `Strg + E`
+
+## Comment multiple lines
+
+`Shift + Alt + A`
+
+[SO - How to comment multiple lines in Visual Studio Code?](https://stackoverflow.com/questions/34316156/how-to-comment-multiple-lines-in-visual-studio-code)
+
+
