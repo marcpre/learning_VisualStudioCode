@@ -28,7 +28,7 @@ Renames all occurances of a variable
 
 ## Close All Tabs
 
-`Ctrl+K Ctrl+W Close All`
+`Ctrl+K Ctrl+W`
 
 [VSCode Reference](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
