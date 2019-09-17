@@ -26,4 +26,9 @@ Renames all occurances of a variable
 
 [SO - How to comment multiple lines in Visual Studio Code?](https://stackoverflow.com/questions/34316156/how-to-comment-multiple-lines-in-visual-studio-code)
 
+## Close All Tabs
+
+`Ctrl+K Ctrl+W Close All`
+
+[VSCode Reference](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
